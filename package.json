@@ -1,13 +1,10 @@
 {
-  "jomepage": "https://jsulthan.github.io/jsulthanportfolio.github.io/"
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "build": "vite build",
     "preview": "vite preview"
   },
@@ -37,12 +34,12 @@
   "main": "vite.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jsulthan/react-portfolio-website.git"
+    "url": "git+https://github.com/jsulthan/jsulthanportfolio.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jsulthan/react-portfolio-website/issues"
+    "url": "https://github.com/jsulthan/jsulthanportfolio/issues"
   },
-  "homepage": "https://github.com/jsulthan/react-portfolio-website#readme"
+  "homepage": "https://jsulthan.github.io/jsulthanportfolio"
 }
