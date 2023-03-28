@@ -36,12 +36,12 @@
   "main": "vite.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jsulthan/jsulthanportfolio.git"
+    "url": "git+https://github.com/jsulthan/jsulthanportfolio.github.io.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jsulthan/jsulthanportfolio/issues"
+    "url": "https://github.com/jsulthan/jsulthanportfolio.github.io/issues"
   },
-  "homepage": "https://jsulthan.github.io/jsulthanportfolio"
+  "homepage": "https://jsulthan.github.io/jsulthanportfolio.github.io"
 }
