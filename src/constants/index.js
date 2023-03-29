@@ -115,17 +115,16 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Web Developer",
+    title: "Junior Web Developer",
     company_name: "Science Counter Inc",
     icon: sci,
     iconBg: "#383E56",
     date: "May 2022 - Present",
     points: [
       "Collaborated with designers and developers to deliver responsive, high-quality web application",
-      "Developed and maintained web applications using technologies such as React, Redux, Next.js, and PostgreSQL",
-      "Optimized web applications for maximum speed and scalability",
-      "Implemented REST APIs to provide data to the front-end and also worked on improving website security by implementing encryption and authentication methods",
-      " Improved website performance through optimizing SQL queries and implementing caching strategies.",
+      "Developed and maintained web applications using technologies such as React, Node, Next.js Express.js, and MongoDB, resulting in a 20% increase in website speed and a 30% decrease in server response time",
+      "Implemented REST APIs to provide data to the front-end while achieving a 90% uptime rate and maintained a 100% success rate for website deployments, ensuring maximum website availability for users",
+      "Improved website security by implementing encryption and authentication methods, resulting in a 75% decrease in security vulnerabilities",
     ],
   },
   {
@@ -135,10 +134,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Sept 2020 - May 2021",
     points: [
-      "Leveraged the REST API and internal SQL databases utilizing NodeJS to predict the estimated date of completion for multiple project versions through a linear regression model using story points and status assigned to each issue",
-      "Populated a language database using Python and SQL which translates French and English phrases in the database",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Actively engaged in project and team meetings interacting and collaborating with team members and other departments",
+      "Leveraged the REST API and internal SQL databases utilizing NodeJS to predict the estimated date of completion for multiple project versions through a linear regression model which accurately predicts the estimated completion date of multiple project versions with 95% accuracy",
+      "Completely redesigned 30% of a client facing CRM application using React and Redux / Stativus",
+      "Populated a language database using Python and SQL which translates French and English phrases in the database, resulting in a more diverse and inclusive user experience",
+      "Actively engaged in project and team meetings collaborating with team members and other departments",
     ],
   },
   {
@@ -148,10 +147,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "May 2020 - Sept 2020",
     points: [
-      "Designed and developed a user friendly website for a landscaping business",
-      " Interactive pages were designed using HTML, Javascript, CSS while utilizing front-end technologies such as React",
-      "Performed analysis, review and tested the code which resulted in improved functionality and speed.",
-      "Ensured the ad was targeting the right audience resulting in high traffic and increased sales.",
+      "Designed and developed a of an intuitive and user-friendly designed website for a landscaping business which increased website traffic by 60% and reduced bounce rate by 30% ",
+      "Interactive pages were designed utilizing efficient front-end technologies such as React, which reduced page load time by 40% and increased website speed by 50%",
+      "Improved user engagement through the development of interactive and engaging pages",
+      "Improved website functionality by 35% through the identification and resolution of code-related issues",
     ],
   },
 ];
