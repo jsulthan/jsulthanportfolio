@@ -10,9 +10,10 @@ import close from "./close.svg";
 import sci from "./company/sci.png";
 import bmo from "./company/bmo.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import carrent from "./tshirt.png";
+import jobit from "./tiktokapp.png";
+import tripguide from "./musicapp.png";
+import movieapp from "./movieapp.png";
 
 export {
   logo,
@@ -28,4 +29,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  movieapp,
 };

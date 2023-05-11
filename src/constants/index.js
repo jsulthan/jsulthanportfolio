@@ -8,6 +8,7 @@ import {
   carrent,
   jobit,
   tripguide,
+  movieapp,
 } from "../assets";
 
 export const navLinks = [
@@ -177,8 +178,8 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/jsulthan/ai-generated-app",
+    image: movieapp,
+    source_code_link: "https://github.com/jsulthan/MovieApp",
   },
 ];
 
