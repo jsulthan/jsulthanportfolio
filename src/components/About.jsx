@@ -47,16 +47,13 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a full stack developer with experience in
-        all aspects of web development, from frontend design to backend infrastructure. 
-        With 2 years of experience in the field, and proficient in a range
-        of programming languages and frameworks, including React, Node.js, 
-        MongoDB, Django, Vue, Redux, Next.js and etc. I am a strong communicator and 
-        collaborator, able to work effectively with teams of developers and designers in 
-        delivering high-quality, scalable solutions that meet the needs of clients and 
-        businesses. I am committed to staying up-to-date with the latest industry trends 
-        and best practices, and am always seeking out new opportunities to learn and grow 
-        as a developer.
+        I'm a software developer with experience in all aspects of development, from frontend design to backend infrastructure. 
+                  With 2 years of experience in the field, and proficient in a range of programming languages and frameworks, 
+                  including React, React Native, Node.js, MongoDB, PostgreSQL, Django, Angular, Redux, Next.js and being exceptional 
+                  in writing JavaScript/TypeScript. I am a strong communicator and collaborator, able to work effectively with 
+                  teams of developers and designers in delivering high-quality, scalable solutions that meet the needs of clients 
+                  and businesses. I am committed to staying up-to-date with the latest industry trends and best practices, and 
+                  am always seeking out new opportunities to learn and grow as a developer.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
