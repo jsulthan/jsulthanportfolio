@@ -47,13 +47,12 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a software developer with experience in all aspects of development, from frontend design to backend infrastructure. 
-                  With 2 years of experience in the field, and proficient in a range of programming languages and frameworks, 
-                  including React, React Native, Node.js, MongoDB, PostgreSQL, Django, Angular, Redux, Next.js and being exceptional 
-                  in writing JavaScript/TypeScript. I am a strong communicator and collaborator, able to work effectively with 
-                  teams of developers and designers in delivering high-quality, scalable solutions that meet the needs of clients 
-                  and businesses. I am committed to staying up-to-date with the latest industry trends and best practices, and 
-                  am always seeking out new opportunities to learn and grow as a developer.
+        Software Developer with 3 years of experience in the tech industry, specializing in web application development and cloud computing. 
+        Proficient in building interactive Single Page applications using TypeScript, ReactJS, Node.js, and Express.js. Skilled in developing REST 
+        APIs with ASP.NET Core and Spring Boot for seamless communication with Kafka Streams and MongoDB. Strong expertise in implementing encryption 
+        and authentication methods for enhanced security. Experienced in micro-service deployments on AWS ECS and EC2 instances, leveraging 
+        Autoscaling groups for efficient scaling. Adept at building and maintaining Docker images to optimize testing processes within the 
+        infrastructure pipeline.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
